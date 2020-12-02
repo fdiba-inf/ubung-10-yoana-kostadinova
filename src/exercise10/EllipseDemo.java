@@ -18,3 +18,4 @@ public class EllipseDemo {
         System.out.println("2. equals 3.: " + ellipse2.equal(ellipse3));
     }
 }
+
